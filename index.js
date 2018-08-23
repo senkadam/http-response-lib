@@ -43,3 +43,9 @@ module.exports.error = (err) =>  {
 };
 
 
+module.exports.response = (statusCode, body) =>  {
+    console.error(body);
+    return awsResponse({statusCode, body});
+};
+
+

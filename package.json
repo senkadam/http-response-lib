@@ -1,6 +1,6 @@
 {
   "name": "http-response-lib",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Reformats obj to http response for AWS Api Gateway",
   "main": "index.js",
   "repository": {
